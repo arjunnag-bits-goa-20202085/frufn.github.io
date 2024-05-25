@@ -66,11 +66,3 @@ __Example #4:__
 <img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/3840x2160-avengers-cast-photocall-moscow-05.JPG width=75%>
 <br>After:(Need to zoom)<br>
 <img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/predicted/3840x2160-avengers-cast-photocall-moscow-05.JPG width=75%>
-
-__Example #5:__
-<br>In this example, the model was trained on the faces of my friends.
-<br>Before:<br>
-<img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/00000PORTRAIT_00000_BURST20180310144236486.jpg width=75%>
-<br>After:<br>
-<img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/predicted/00000PORTRAIT_00000_BURST20180310144236486.jpg width=75%>
-
