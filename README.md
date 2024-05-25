@@ -1,12 +1,10 @@
-# Face-Recognition-using-FaceNet
+# Face Recognition using FaceNet
 
 
-This face recognition system is implemented upon a pre-trained FaceNet model achieving a state-of-the-art accuracy.
+This face recognition system is implemented upon a pre-trained FaceNet model achieving state-of-the-art accuracy.
 The system comes with
 both Live recognition & Image recognition.
-It is trained on faces of some celebrities.
-
-For any queries Contact: [Ankur Goswami](https://github.com/Ankur1401/)
+It is trained on the faces of some celebrities.
 
 
 * __Installing dependencies:__
@@ -70,7 +68,7 @@ __Example #4:__
 <img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/predicted/3840x2160-avengers-cast-photocall-moscow-05.JPG width=75%>
 
 __Example #5:__
-<br>In this example, the model was trained on faces of my friends.
+<br>In this example, the model was trained on the faces of my friends.
 <br>Before:<br>
 <img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/00000PORTRAIT_00000_BURST20180310144236486.jpg width=75%>
 <br>After:<br>
